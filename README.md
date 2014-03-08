@@ -1,6 +1,6 @@
-# popup
+# Password-Generator
 
-Popup is an Angular directive for creating custom input popup UIs.
+Password-Generator is an Angular directive that creates a password generator UI for a popup input.
 
 **Requirements**
 
